@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosaugusto28&theme=dracula" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosaugusto28&theme=github_dark" alt="Carlos Augusto's GitHub Activity Graph" />
 </div>
 
 ###
