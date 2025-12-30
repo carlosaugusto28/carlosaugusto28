@@ -2,9 +2,17 @@
 
 ###
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=carlosaugusto28&show_icons=true&theme=dracula&count_private=true)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=carlosaugusto28&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosaugusto28&layout=compact&theme=dracula)
+###
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosaugusto28&theme=dracula&hide_border=true" height="150" alt="streak stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosaugusto28&layout=compact&theme=dracula&hide_border=true" height="150" alt="top langs" />
+</div>
 
 ###
 
