@@ -1,18 +1,10 @@
-<h2 align="left">Hi! My name is Carlos Augusto.</h2>
+## Hi! My name is Carlos Augusto.
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=carlosaugusto28&theme=radical&hide_border=true" height="150" alt="streak graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosaugusto28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=carlosaugusto28&show_icons=true&theme=dracula&count_private=true)
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosaugusto28&show_icons=true&count_private=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosaugusto28&layout=compact&theme=dracula)
 
 ###
 
@@ -56,8 +48,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/carlosaugusto28/carlosaugusto28/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/carlosaugusto28/carlosaugusto28/output/snake.svg" alt="Snake animation" width="100%" />
 
 ###
