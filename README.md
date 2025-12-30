@@ -44,7 +44,7 @@
 <p align="left">
     <a href="https://www.linkedin.com/in/carlos-augusto-devbe/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="rafael-dias-marques" height="30" width="40" /></a>
+            alt="carlos-augusto-nogueira" height="30" width="40" /></a>
 </p>
 
 ###
